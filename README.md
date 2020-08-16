@@ -1,4 +1,3 @@
-zobkiw.github.io
-================
+[zobkiw](http://zobkiw.com)
 
-[self headInClouds];
+Email [zobkiw@gmail.com](mailto:zobkiw@gmail.com)
