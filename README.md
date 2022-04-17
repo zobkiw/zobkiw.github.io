@@ -2,15 +2,11 @@ Hello,
 
 I'm Joe.
 
-I’ve been designing and developing software for Apple products since 1986, although it has branched out a bit since then.
+I’ve been designing and developing software solutions my entire career. I’ve focused on native software, web apps, mobile development, platform architecture, and people and project management. I’ve worked for startups, small companies, large companies, academia, big Pharma, and the leading retailer and manufacturing company of high-quality, personalized products. I’ve written code, managed projects and/or teams (both local and international) for The Smithsonian, UNESCO, Microsoft, Facebook/Meta, Shutterfly, Timehop and many others. I’ve also written two advanced programming books and recently released a third tech/career-oriented book focused on helping people work better with their teams. You can learn more about it at [zobskewed.com](https://zobskewed.com/)
 
-I’ve written code and/or managed projects/teams for The Smithsonian, UNESCO, Microsoft, Facebook/Meta, Timehop and many others.
+I am capable of working independently, melding into a team, turning a team around, and/or managing a project from start to finish all the while focused on the bottom line, technical excellence, and smart business decisions. I pride myself on being able to bridge the gap between the technical and the not-so-technical in an organization, helping to ensure that everyone is on the same page throughout a project. 
 
-While at Shutterfly, the leading retailer and manufacturing company of high-quality personalized products, I focused on mobile development, platform architecture, and management of development teams.
-
-I've also written two advanced programming books and a third book about career and tech published in April of 2022. You can learn more about it at [zobskewed.com](https://zobskewed.com/)
-
-I am capable of melding into a team, turning a team around, and/or managing a project from { to }.
+I’m primarily interested in leadership positions in engineering and product direction, including building, mentoring, and guiding teams and individuals to help them successfully manage their careers while building great products.
 
 Please contact me if I can be of service to your organization.
 
