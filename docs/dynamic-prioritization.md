@@ -1,6 +1,10 @@
 ###Dynamic Prioritization
+**_Learning to manage your shifting day_**
+*by Joe Zobkiw*
 
-Unless you are an entry level engineer, in your first month on the job, focused on one very specific task, you will almost certainly have multiple concerns throughout the day, competing for your time and attention.
+---
+
+Unless you are an entry level engineer, in your first month on the job, focused on one very specific task, you will almost certainly have multiple, shifting concerns throughout the day, competing for your time and attention.
 
 At any one time, you may have 3 items in your queue, one of which is actively being focused on, another that is in a holding pattern waiting for stakeholder feedback, and another waiting in the wings for your attention. But what happens when yet another issue, for example, a production issue in your code base, appears out of nowhere and requires your immediate attention? What do you do? How to do manage this 4th thing under the pressure of your customers being unable to use your app or access your web site?
 
@@ -8,13 +12,17 @@ The easy answer is, you just do it. You put the other things aside and you focus
 
 ####Managing The Tangible
 
-First and foremost - focus on ceasing the issue - stop the bleeding. This may mean tracking down the cause and revert the deploy or flip the feature toggle back - maybe restart the server or database. Whatever it takes to get your system back to a usable and non-alerting state. After the initial fire is out, you can re-group to figure out how to re-build and truly fix the issue properly - adding monitoring and other checks to ensure it doesn't happen again.
+First and foremost - focus on ceasing the issue - stop the bleeding. This may mean tracking down the cause and reverting the deploy or flipping the feature toggle back - maybe restarting the server or database. Whatever it takes to get your system back to a usable and non-alerting state.
+
+After the initial fire is out, you can re-group to figure out how to re-build and truly fix the issue properly - adding monitoring and other checks to ensure it doesn't happen again. The prioritization of the work in this phase may not (or may be) as urgent. Regardless, ensure that you document everything you know so, when you do come back to it, you can pick up where you left off with a deep understanding of the details.
 
 ####Managing The Intangible
 
 The stress of this type of situation can be real. Experienced managers know this and will support your efforts, helping you to manage the re-prioritization appropriately. This may include getting others to assist (either on your original work or the issue at hand) or simply running blocker for you so you can focus on said issue and not worry about any fallout with stakeholders and business partners.
 
 Experienced stakeholders will also understand the risks of software development and support and will understand that things happen that can cause shifting priorities and delays. When scheduling a project, if you know your day-to-day environment well enough, you can easily build-in buffers to help make these "side excursions" something that are planned-for and have minimal impact on the overall project timeline.
+
+Sometimes people will be freaking out - try to ignore this - your job here is to resolve the issue - not deal with someone's tantrum. Focus on what is needed at the time, you can come back to the rest later.
 
 ####What About Non-Emergencies?
 
