@@ -4,7 +4,7 @@
 
 ---
 
-In speaking to my direct reports with reagrd to career trajectory and potential promotions, I've discovered this analogy that I like to use.
+In speaking to my direct reports with regard to career trajectory and potential promotions, I've discovered this analogy that I like to use.
 
 I've found it's neccessary for everyone, regardless of position, to find their differentiator. Anyone can be a sufficient programmer, or manager, or product person. There are basics that everyone needs to know - the foundational aspects of the job. You need those to even hope to be average. But how do you get higher ratings? How do propel your career? You need to find your snow covered peak.
 
